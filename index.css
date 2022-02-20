@@ -1,0 +1,31 @@
+
+/*Main Styles*/
+body {
+   background-image: url("akatsuki-clouds.gif");
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+/*IMage Styles*/
+#pro-img {
+    max-width: 30%;
+    height: auto;
+    border: solid red 10px;
+    border-radius: 50%;
+}
+/*Links */
+ul {
+    list-style: none;
+    font-size: 2rem;
+}
