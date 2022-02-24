@@ -32,23 +32,28 @@ a {
 
 }
 
+
 ul {
     list-style: none;
     font-size: 3rem;
 }
 
 li {
-  margin: 40px;
+  margin-bottom: 40px;
 }
 
 #facebook, #instagram, #twitch {
   background-color: firebrick;
   padding: 7px 70px;
-  box-shadow: blue 10px;
+  box-shadow: -4px -4px 2px white;
+
 }
 
-/*#test-wrap {
-  background-color: blue;
-  padding-top: 1px;
+#facebook:hover, #instagram:hover, #twitch:hover {
+  box-shadow: 15px 15px 15px white inset;
 }
-*/
+
+/*Videos*/
+.videos {
+  display: none;
+}
