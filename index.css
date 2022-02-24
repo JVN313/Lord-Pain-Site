@@ -50,7 +50,7 @@ li {
 }
 
 #facebook:hover, #instagram:hover, #twitch:hover {
-  box-shadow: 15px 15px 15px white inset;
+  box-shadow: 15px 15px 20px white inset;
 }
 
 /*Videos*/
